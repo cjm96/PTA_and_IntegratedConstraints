@@ -1,0 +1,10 @@
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+
+__pycache__/*
+
+.ipynb_checkpoints/*
+
+data/frequencies.txt
+data/12p5yr_DE438_model2a_PSDspectrum_chain.hdf5
